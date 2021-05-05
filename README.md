@@ -1,6 +1,6 @@
-:wave: Hi hello, this bot is the **Give Role** infrastructure of Archex Team. **All rights of this bot belong to us and necessary** actions will be taken in case of stolen.
+:wave: Hi hello, this bot is the **Dm Duyuru** infrastructure of Archex Team. **All rights of this bot belong to us and necessary** actions will be taken in case of stolen.
 
-:wave: Merhaba bu bot Archex Ekibinin **Rol Verme( Js,Py,Html)** altyapısıdır. bu botun **tüm hakları bize aittir** ve çalınması durumunda gerekli işlemler uygulanacaktır.
+:wave: Merhaba bu bot Archex Ekibinin **Dm Duyuru** altyapısıdır. bu botun **tüm hakları bize aittir** ve çalınması durumunda gerekli işlemler uygulanacaktır.
 
 :wrench: Archex Team <3
 
